@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "Cannot access value for name paneItemMenu",
+                        "functionName": "menuDelegate",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 46,
+                        "errorMessage": "Cannot access value for name navigationView",
+                        "functionName": "onTap",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name paneItemMenu",
+                        "functionName": "menuDelegate",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name navigationView",
+                        "functionName": "onTap",
+                        "line": 39
+                    }
+                ],
+                "filepath": "E:/studyspace/QTproject/Beautiful_File_System_1/ItemsOriginal.qml"
+            }
+        ],
+        "moduleId": "Beautiful_File_System(appBeautiful_File_System_main)"
+    }
+]

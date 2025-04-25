@@ -1,0 +1,18 @@
+module Beautiful_File_System
+typeinfo appBeautiful_File_System_main.qmltypes
+prefer :/qt/qml/Beautiful_File_System/
+Main 1.0 Main.qml
+File_Tree_View 1.0 FIle_Tree_View_mirror/File_Tree_View.qml
+ControlButtons 1.0 FIle_Tree_View_mirror/ControlButtons.qml
+Page_TreeView 1.0 Page_TreeView.qml
+Js_Function 1.0 FIle_Tree_View_mirror/Js_Function.js
+Creation_Dialog 1.0 FIle_Tree_View_mirror/Creation_Dialog.qml
+ItemsOriginal 1.0 ItemsOriginal.qml
+ItemsFooter 1.0 ItemsFooter.qml
+Test 1.0 Test__ALL/Test.qml
+App 1.0 App.qml
+Rectangle_File_Type_Picture 1.0 CommonComponents/Rectangle_File_Type_Picture.qml
+TestICON 1.0 Test__ALL/TestICON.qml
+OpenFileSetting 1.0 OpenFileSetting/OpenFileSetting.qml
+Page_Setting 1.0 Page_Setting.qml
+

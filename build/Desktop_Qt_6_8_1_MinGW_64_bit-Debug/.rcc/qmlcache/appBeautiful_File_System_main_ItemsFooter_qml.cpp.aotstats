@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 24,
+                        "durationMicroseconds": 462,
+                        "errorMessage": "",
+                        "functionName": "onTapListener",
+                        "line": 17
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 148,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "onTapListener",
+                        "line": 17
+                    }
+                ],
+                "filepath": "E:/studyspace/QTproject/Beautiful_File_System_1/ItemsFooter.qml"
+            }
+        ],
+        "moduleId": "Beautiful_File_System(appBeautiful_File_System_main)"
+    }
+]

@@ -1,0 +1,134 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "FluTableSortProxyModel"
+                }
+            ],
+            "className": "FluTableSortProxyModel",
+            "lineNumber": 9,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "rowIndex",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "getRow",
+                    "returnType": "QVariant"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "rowIndex",
+                            "type": "int"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "index": 2,
+                    "name": "setRow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "rowIndex",
+                            "type": "int"
+                        },
+                        {
+                            "name": "val",
+                            "type": "QVariant"
+                        }
+                    ],
+                    "index": 3,
+                    "name": "insertRow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "rowIndex",
+                            "type": "int"
+                        },
+                        {
+                            "name": "rows",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "removeRow",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "comparator",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "setComparator",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "filter",
+                            "type": "QJSValue"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "setFilter",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "member": "_model",
+                    "name": "model",
+                    "notify": "modelChanged",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "QVariant",
+                    "user": false
+                }
+            ],
+            "qualifiedClassName": "FluTableSortProxyModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "modelChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QSortFilterProxyModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "FluTableSortProxyModel.h",
+    "outputRevision": 68
+}

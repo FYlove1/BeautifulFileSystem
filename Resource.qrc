@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Picture/File_Type_Icon/a-3D.png</file>
+        <file>Res/Picture/File_Type_Icon/ae.png</file>
+        <file>Res/Picture/File_Type_Icon/ai.png</file>
+        <file>Res/Picture/File_Type_Icon/a-UnrealEngine.png</file>
+        <file>Res/Picture/File_Type_Icon/excel.png</file>
+        <file>Res/Picture/File_Type_Icon/jiaoben.png</file>
+        <file>Res/Picture/File_Type_Icon/PDF.png</file>
+        <file>Res/Picture/File_Type_Icon/PPT.png</file>
+        <file>Res/Picture/File_Type_Icon/shipin.png</file>
+        <file>Res/Picture/File_Type_Icon/shujuku.png</file>
+        <file>Res/Picture/File_Type_Icon/tupian.png</file>
+        <file>Res/Picture/File_Type_Icon/TXT.png</file>
+        <file>Res/Picture/File_Type_Icon/wangye.png</file>
+        <file>Res/Picture/File_Type_Icon/weizhi.png</file>
+        <file>Res/Picture/File_Type_Icon/wenjianjia.png</file>
+        <file>Res/Picture/File_Type_Icon/word.png</file>
+        <file>Res/Picture/File_Type_Icon/yasuobao.png</file>
+        <file>Res/Picture/File_Type_Icon/yinpin.png</file>
+        <file>Res/Picture/Components/barrage.png</file>
+        <file>Res/Picture/Components/barrage_fill.png</file>
+        <file>Res/Picture/Components/browse.png</file>
+        <file>Res/Picture/Components/browse_fill.png</file>
+        <file>Res/Picture/Components/brush.png</file>
+        <file>Res/Picture/Components/brush_fill.png</file>
+        <file>Res/Picture/Components/businesscard.png</file>
+        <file>Res/Picture/Components/businesscard_fill.png</file>
+        <file>Res/Picture/Components/file.png</file>
+        <file>Res/Picture/Components/setting.png</file>
+        <file>Res/Picture/Components/shouqi.png</file>
+        <file>Res/Picture/Components/xiala.png</file>
+    </qresource>
+</RCC>

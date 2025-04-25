@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 317,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 9
+                    }
+                ],
+                "filepath": "E:/studyspace/QTproject/Beautiful_File_System_1/App.qml"
+            }
+        ],
+        "moduleId": "Beautiful_File_System(appBeautiful_File_System_main)"
+    }
+]

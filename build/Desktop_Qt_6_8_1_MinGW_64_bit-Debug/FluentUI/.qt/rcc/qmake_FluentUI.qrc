@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/FluentUI">
+    <file alias="qmldir">E:/studyspace1/QT/6.8.1/mingw_64/qml/FluentUI/qmldir</file>
+  </qresource>
+</RCC>
+

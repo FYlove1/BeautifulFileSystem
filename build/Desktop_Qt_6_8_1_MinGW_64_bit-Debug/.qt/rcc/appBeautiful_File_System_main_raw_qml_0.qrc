@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qt/qml/Beautiful_File_System/">
+    <file alias="Main.qml">E:/studyspace/QTproject/Beautiful_File_System_1/Main.qml</file>
+    <file alias="FIle_Tree_View_mirror/File_Tree_View.qml">E:/studyspace/QTproject/Beautiful_File_System_1/FIle_Tree_View_mirror/File_Tree_View.qml</file>
+    <file alias="FIle_Tree_View_mirror/ControlButtons.qml">E:/studyspace/QTproject/Beautiful_File_System_1/FIle_Tree_View_mirror/ControlButtons.qml</file>
+    <file alias="Page_TreeView.qml">E:/studyspace/QTproject/Beautiful_File_System_1/Page_TreeView.qml</file>
+    <file alias="FIle_Tree_View_mirror/Js_Function.js">E:/studyspace/QTproject/Beautiful_File_System_1/FIle_Tree_View_mirror/Js_Function.js</file>
+    <file alias="FIle_Tree_View_mirror/Creation_Dialog.qml">E:/studyspace/QTproject/Beautiful_File_System_1/FIle_Tree_View_mirror/Creation_Dialog.qml</file>
+    <file alias="ItemsOriginal.qml">E:/studyspace/QTproject/Beautiful_File_System_1/ItemsOriginal.qml</file>
+    <file alias="ItemsFooter.qml">E:/studyspace/QTproject/Beautiful_File_System_1/ItemsFooter.qml</file>
+    <file alias="Test__ALL/Test.qml">E:/studyspace/QTproject/Beautiful_File_System_1/Test__ALL/Test.qml</file>
+    <file alias="App.qml">E:/studyspace/QTproject/Beautiful_File_System_1/App.qml</file>
+    <file alias="CommonComponents/Rectangle_File_Type_Picture.qml">E:/studyspace/QTproject/Beautiful_File_System_1/CommonComponents/Rectangle_File_Type_Picture.qml</file>
+    <file alias="Test__ALL/TestICON.qml">E:/studyspace/QTproject/Beautiful_File_System_1/Test__ALL/TestICON.qml</file>
+    <file alias="OpenFileSetting/OpenFileSetting.qml">E:/studyspace/QTproject/Beautiful_File_System_1/OpenFileSetting/OpenFileSetting.qml</file>
+    <file alias="Page_Setting.qml">E:/studyspace/QTproject/Beautiful_File_System_1/Page_Setting.qml</file>
+  </qresource>
+</RCC>
+

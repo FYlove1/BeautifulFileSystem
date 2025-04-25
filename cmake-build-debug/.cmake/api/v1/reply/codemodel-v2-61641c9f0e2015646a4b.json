@@ -1,0 +1,302 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-87e2aa1d3c12af71ad57.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						22,
+						23
+					]
+				},
+				{
+					"build" : "FluentUI",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-FluentUI-Debug-1bc7dbb2e92f728fdafe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "FluentUI",
+					"targetIndexes" : 
+					[
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Beautiful_File_System_main",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						22,
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "fluentuiplugin",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-d75110f58af442aff104.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0369b523831e980113a5.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-8b10cd9cb8c1773b6d67.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-27f93379e52e1b65ba43.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-ad1b893767a8e73cfe25.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main-Debug-befb10430ce009e078ce.json",
+					"name" : "appBeautiful_File_System_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_autogen-Debug-f45967bc10bfbca94160.json",
+					"name" : "appBeautiful_File_System_main_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_autogen_timestamp_deps-Debug-226e679afb72ff545f55.json",
+					"name" : "appBeautiful_File_System_main_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_qmlimportscan-Debug-0e569d3004cec95c3b8f.json",
+					"name" : "appBeautiful_File_System_main_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_qmllint-Debug-bdb0bf9523f7eb5bf588.json",
+					"name" : "appBeautiful_File_System_main_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_qmllint_json-Debug-e2e152cf6f9bef013aa0.json",
+					"name" : "appBeautiful_File_System_main_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_qmllint_module-Debug-7bbb5a1b242c92909d33.json",
+					"name" : "appBeautiful_File_System_main_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_qmltyperegistration-Debug-0793d238426e465938b1.json",
+					"name" : "appBeautiful_File_System_main_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appBeautiful_File_System_main_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appBeautiful_File_System_main_tooling-Debug-c716681646a9f0edda22.json",
+					"name" : "appBeautiful_File_System_main_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin-Debug-7688e02c15a6cef94cc5.json",
+					"name" : "fluentuiplugin",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_autogen::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_autogen-Debug-ebf35e06576f8f78b6e6.json",
+					"name" : "fluentuiplugin_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_autogen_timestamp_deps::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_autogen_timestamp_deps-Debug-5392b2c6f7fa39875fc4.json",
+					"name" : "fluentuiplugin_autogen_timestamp_deps",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_qmllint::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_qmllint-Debug-47b3ff003e49671031dc.json",
+					"name" : "fluentuiplugin_qmllint",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_qmllint_json::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_qmllint_json-Debug-56067c764b2d3629e6c9.json",
+					"name" : "fluentuiplugin_qmllint_json",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_qmllint_module::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_qmllint_module-Debug-e2bab950907879874b7d.json",
+					"name" : "fluentuiplugin_qmllint_module",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_qmltyperegistration::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_qmltyperegistration-Debug-f2f0547b62c584cfe1e3.json",
+					"name" : "fluentuiplugin_qmltyperegistration",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fluentuiplugin_tooling::@7366c80dbef1255836ce",
+					"jsonFile" : "target-fluentuiplugin_tooling-Debug-43474329317c6eda15ae.json",
+					"name" : "fluentuiplugin_tooling",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appBeautiful_File_System_main_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appBeautiful_File_System_main_aotstats_target-Debug-70267dcc2625d56ca389.json",
+					"name" : "module_appBeautiful_File_System_main_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_fluentuiplugin_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_fluentuiplugin_aotstats_target-Debug-cec033ce6501f0de5ee6.json",
+					"name" : "module_fluentuiplugin_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/studyspace/QTproject/Beautiful_File_System_1/cmake-build-debug",
+		"source" : "E:/studyspace/QTproject/Beautiful_File_System_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

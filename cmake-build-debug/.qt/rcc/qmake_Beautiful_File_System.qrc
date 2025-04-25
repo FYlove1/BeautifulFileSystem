@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Beautiful_File_System">
+    <file alias="qmldir">E:/studyspace/QTproject/Beautiful_File_System_1/cmake-build-debug/Beautiful_File_System/qmldir</file>
+  </qresource>
+</RCC>
+
