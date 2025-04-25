@@ -1,2 +1,0 @@
-E:/studyspace/QTproject/Beautiful_File_System_1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/appBeautiful_File_System_main_autogen/include/../77IBE54QZQ/moc_My_Tree_Model.cpp.json
-E:/studyspace/QTproject/Beautiful_File_System_1/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/appBeautiful_File_System_main_autogen/include/../77IBE54QZQ/moc_filetypeassociationmanager.cpp.json
