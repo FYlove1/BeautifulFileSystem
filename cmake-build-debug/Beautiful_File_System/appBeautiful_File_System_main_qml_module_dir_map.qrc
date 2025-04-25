@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/Beautiful_File_System">E:/studyspace/QTproject/Beautiful_File_System_1/cmake-build-debug/Beautiful_File_System</file>
-
-  </qresource>
-</RCC>
